@@ -1,0 +1,7 @@
+*.o
+sewing/build
+*.output
+*.ll
+*.s
+log 
+compiler
